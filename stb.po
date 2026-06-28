@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: stalker_portal Ministra 5.6.7 Bulgarian localization\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-08 10:37+0300\n"
-"PO-Revision-Date: 2026-06-28 13:42+0300\n"
-"Last-Translator: ChatGPT-assisted professional review\n"
+"PO-Revision-Date: 2026-06-28 18:45+0300\n"
+"Last-Translator: Codex-assisted Bulgarian localization review\n"
 "Language: bg_BG\n"
 "Language-Team: Bulgarian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -819,7 +819,7 @@ msgstr "Зареждане на EPG"
 
 #: ../../../administrator/stat_video_users.php:58 ../../../administrator/stat_video_users.php:64
 msgid "Users video views statistics per month"
-msgstr "Статистика просмотра ВИДЕО за месяц"
+msgstr "Месечна статистика за гледанията на видео от потребители"
 
 #: ../../../administrator/stat_video_users.php:134
 #, no-php-format, python-format
@@ -1013,7 +1013,7 @@ msgstr "просмотров всего"
 
 #: ../../../administrator/video_search.php:371
 msgid "total views per month"
-msgstr "просмотров за месяц"
+msgstr "общо гледания за месец"
 
 #: ../../../administrator/video_search.php:372
 msgid "last viewed"
@@ -1085,7 +1085,7 @@ msgstr "Медия"
 
 #: ../../../administrator/users.php:573
 msgid "Time from<br>last playback"
-msgstr "Время с<br>последнего<br>просмотра<br>чч:мм:сс"
+msgstr "Време от<br>последното възпроизвеждане чч:мм:сс"
 
 #: ../../../administrator/users.php:576
 msgid "Last change<br>of status"
@@ -1123,7 +1123,7 @@ msgstr "Когато"
 
 #: ../../../administrator/stat_anec_users.php:59 ../../../administrator/stat_anec_users.php:65
 msgid "Monthly jokes views statistics"
-msgstr "Статистика просмотра Анекдотов за месяц"
+msgstr "Месечна статистика за гледанията на анекдоти"
 
 #: ../../../administrator/stat_anec_users.php:136
 msgid "Counting at least 5 jokes"
@@ -1539,7 +1539,7 @@ msgstr "Зареди активните събития"
 
 #: ../../../administrator/events.php:355
 msgid "List"
-msgstr "Список"
+msgstr "Списък"
 
 #: ../../../administrator/events.php:363
 msgid "Pattern"
@@ -1589,7 +1589,7 @@ msgstr "Видео лог"
 
 #: ../../../administrator/stat_video_genres.php:59 ../../../administrator/stat_video_genres.php:66
 msgid "Video views statistics by genres per month"
-msgstr "Статистика просмотра ВИДЕО по жанрам за месяц"
+msgstr "Месечна статистика за гледанията на видео по жанрове"
 
 #: ../../../administrator/stat_video_genres.php:123
 msgid "Total movies"
@@ -1597,7 +1597,7 @@ msgstr "Общо филми"
 
 #: ../../../administrator/stat_daily_video.php:59 ../../../administrator/stat_daily_video.php:65
 msgid "Daily video views statistics"
-msgstr "Статистика просмотра ВИДЕО по дням"
+msgstr "Дневна статистика за гледанията на видео"
 
 #: ../../../administrator/stat_daily_video.php:128 ../../../lib/gismeteo.class.php:30
 msgid "Day"
@@ -1627,7 +1627,7 @@ msgstr "Дата на затваряне"
 #: ../../../administrator/last_closed_tasks.php:253 ../../../administrator/last_closed_tasks.php:307
 #: ../../../administrator/tasks_archive.php:226 ../../../administrator/tasks_archive.php:276
 msgid "Total duration, min"
-msgstr "Суммарная длительность, мин"
+msgstr "Обща продължителност, мин"
 
 #: ../../../administrator/last_closed_tasks.php:259 ../../../administrator/tasks_archive.php:233
 msgid "HD movies"
@@ -1906,7 +1906,7 @@ msgstr "видео"
 
 #: ../../../administrator/tasks.php:133
 msgid "Messages"
-msgstr "Сообщения"
+msgstr "Съобщения"
 
 #: ../../../administrator/tasks.php:220
 msgid "Expired 10 days"
@@ -3556,7 +3556,7 @@ msgstr "ч"
 
 #: ../../../lang/stb.php:301
 msgid "Reached limit the duration of continuous playback. To continue playback, press the OK or EXIT."
-msgstr "Достигнато е ограничението на непрекъснато възпроизвеждане. За продължение натиснете OK или EXIT."
+msgstr "Достигнато е ограничението за продължително възпроизвеждане. За да продължите, натиснете OK или EXIT."
 
 #: ../../../lang/stb.php:303
 msgid "GENERAL SETTINGS"
@@ -3564,7 +3564,7 @@ msgstr "ОБЩИ НАСТРОЙКИ"
 
 #: ../../../lang/stb.php:304
 msgid "Screensaver interval"
-msgstr "Интервал на стартиране на sreensaver"
+msgstr "Интервал на скрийнсейвъра"
 
 #: ../../../lang/stb.php:308
 msgid "DEMO VIDEO"
@@ -3872,7 +3872,7 @@ msgstr "НЕ"
 
 #: ../../../lang/stb.php:433
 msgid "Do you want to quit the Time Shift mode?"
-msgstr "Искате и да излезете от режим Time Shift?"
+msgstr "Искате ли да излезете от режим Time Shift?"
 
 #: ../../../lang/stb.php:435
 msgid "by name"
@@ -4469,7 +4469,7 @@ msgstr "планирано"
 
 #: ../../../lib/weatherco.class.php:196 ../../../lib/weatherco.class.php:221
 msgid "city_name_field"
-msgstr "name"
+msgstr "име на град"
 
 #: ../../../lib/admin.class.php:177
 #, php-format, python-format
@@ -4526,7 +4526,7 @@ msgstr "H:i"
 #~ msgstr "Екшън"
 
 #~ msgid "Error when sending event"
-#~ msgstr "Ошибка при отправке события"
+#~ msgstr "Грешка при изпращане на събитие"
 
 #~ msgid "Wrong password"
 #~ msgstr "Неверный пароль"
@@ -4565,28 +4565,28 @@ msgstr "H:i"
 #~ msgstr "дней"
 
 #~ msgid "Account default"
-#~ msgstr "Использовать по умолчанию"
+#~ msgstr "Използвай по подразбиране"
 
 #~ msgid "account_main_info"
 #~ msgstr "%1$s <br>Телефон: %3$s<br>Активация: %2$s"
 
 #~ msgid "PLAYLISTS"
-#~ msgstr "ПЛЕЙЛИСТЫ"
+#~ msgstr "ПЛЕЙЛИСТИ"
 
 #~ msgid "Upload"
-#~ msgstr "Загрузить"
+#~ msgstr "Качи"
 
 #~ msgid "audioclub"
 #~ msgstr "аудиоклуб"
 
 #~ msgid "Refresh EPG"
-#~ msgstr "Обновить EPG"
+#~ msgstr "Обнови EPG"
 
 #~ msgid "wait"
-#~ msgstr "подождите"
+#~ msgstr "моля, изчакайте"
 
 #~ msgid "Volume vorrection"
-#~ msgstr "Коррекция звука"
+#~ msgstr "Корекция на звука"
 
 #~ msgid "Claims on<br>audio/video"
 #~ msgstr "Жалобы на<br>видео/аудио"

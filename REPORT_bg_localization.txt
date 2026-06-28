@@ -1,28 +1,58 @@
-Ministra 5.6.7 Bulgarian localization report
-Generated: 2026-06-28 13:43:03 Europe/Sofia
+Ministra 5.6.7 Bulgarian localization review
+Date: 2026-06-28
 
-Files included:
-- stb.po
-- stb.mo
+Changed entries: 13
 
-Messages total: 1049
-Corrected entries: 167
-Untranslated messages after processing: 0
-Fuzzy messages after processing: 0
-Russian-only letters left (Ё/Ы/Э): 0
-Placeholder validation issues: 0
+1. Users video views statistics per month
+   OLD: Статистика просмотра ВИДЕО за месяц
+   NEW: Месечна статистика за гледанията на видео от потребители
+2. total views per month
+   OLD: просмотров за месяц
+   NEW: общо гледания за месец
+3. Time from<br>last playback
+   OLD: Время с<br>последнего<br>просмотра<br>чч:мм:сс
+   NEW: Време от<br>последното възпроизвеждане чч:мм:сс
+4. Monthly jokes views statistics
+   OLD: Статистика просмотра Анекдотов за месяц
+   NEW: Месечна статистика за гледанията на анекдоти
+5. List
+   OLD: Список
+   NEW: Списък
+6. Video views statistics by genres per month
+   OLD: Статистика просмотра ВИДЕО по жанрам за месяц
+   NEW: Месечна статистика за гледанията на видео по жанрове
+7. Daily video views statistics
+   OLD: Статистика просмотра ВИДЕО по дням
+   NEW: Дневна статистика за гледанията на видео
+8. Total duration, min
+   OLD: Суммарная длительность, мин
+   NEW: Обща продължителност, мин
+9. Messages
+   OLD: Сообщения
+   NEW: Съобщения
+10. Reached limit the duration of continuous playback. To continue playback, press the OK or EXIT.
+   OLD: Достигнато е ограничението на непрекъснато възпроизвеждане. За продължение натиснете OK или EXIT.
+   NEW: Достигнато е ограничението за продължително възпроизвеждане. За да продължите, натиснете OK или EXIT.
+11. Screensaver interval
+   OLD: Интервал на стартиране на sreensaver
+   NEW: Интервал на скрийнсейвъра
+12. Do you want to quit the Time Shift mode?
+   OLD: Искате и да излезете от режим Time Shift?
+   NEW: Искате ли да излезете от режим Time Shift?
+13. city_name_field
+   OLD: name
+   NEW: име на град
 
-Validation:
-- PO parsed successfully.
-- MO compiled successfully.
-- msgid values preserved.
-- printf placeholders (%s, %d, numbered placeholders) checked where present in source strings.
-- brace placeholders such as {0} checked where present in source strings.
-- HTML fragments were preserved in translated strings where present.
+Notes:
+- Preserved technical tokens such as EPG, MAC, URL, TimeShift and time formats.
+- Preserved placeholders and HTML tags in the edited strings.
+- Generated stb.mo from the updated stb.po.
 
-Main corrections:
-- filled empty msgstr entries;
-- removed fuzzy status after correction;
-- replaced Russian administrative/UI phrases with Bulgarian;
-- corrected wrong-context translations such as STB damaged/blocked, TimeShift, TV archive, PVR errors, cache/storage actions;
-- unified terminology: STB, ТВ архив, TimeShift, хранилище, кеш, канал, абонамент, запис.
+Obsolete (#~) entries cleaned on follow-up:
+1. Ошибка при отправке события -> Грешка при изпращане на събитие
+2. Использовать по умолчанию -> Използвай по подразбиране
+3. ПЛЕЙЛИСТЫ -> ПЛЕЙЛИСТИ
+4. Загрузить -> Качи
+5. Обновить EPG -> Обнови EPG
+6. подождите -> моля, изчакайте
+7. Коррекция звука -> Корекция на звука
