@@ -4516,6 +4516,34 @@ msgstr "%H:%i"
 msgid "H:i"
 msgstr "H:i"
 
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in \"%s\" days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане изтича след \"%s\" дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in %s days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане изтича след %s дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in \"%d\" days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане изтича след \"%d\" дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in %d days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане изтича след %d дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in \"-2\" days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане е изтекъл преди 2 дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: added/subscriber-payment-notice
+msgid "Dear Subscriber! Your payment term will expire in \"-2\" days. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане е изтекъл преди 2 дни. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
+#: server/tasks/send_user_expire_date_msg.php
+msgid "Dear Subscriber! Your payment term will expire today. Please refill a personal account in order to avoid tripping of services."
+msgstr "Срокът за плащане изтича днес. Моля, свържете се с доставчика, за да не бъдат спрени услугите."
+
 #~ msgid "Only for API"
 #~ msgstr "Само за API"
 

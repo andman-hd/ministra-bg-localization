@@ -71,3 +71,15 @@ Additional Russian cleanup on follow-up:
 11. Добавил -> Добавено от
 12. Канала вече има планиран запис -> Каналът вече има планиран запис
 13. Обновлено %d каналов из %d, %d ошибок -> Обновени %d канала от %d, %d грешки
+
+Subscriber payment notice variants added:
+1. Dear Subscriber! Your payment term will expire in "%s" days. Please refill a personal account in order to avoid tripping of services.
+2. Dear Subscriber! Your payment term will expire in %s days. Please refill a personal account in order to avoid tripping of services.
+3. Dear Subscriber! Your payment term will expire in "%d" days. Please refill a personal account in order to avoid tripping of services.
+4. Dear Subscriber! Your payment term will expire in %d days. Please refill a personal account in order to avoid tripping of services.
+5. Dear Subscriber! Your payment term will expire in "-2" days. Please refill a personal account in order to avoid tripping of services.
+6. Dear Subscriber! Your payment term will expire in "-2" days. Please refill a personal account in order to avoid tripping of services.
+
+Exact send_user_expire_date_msg.php entries ensured:
+1. Dear Subscriber! Your payment term will expire in "%s" days. Please refill a personal account in order to avoid tripping of services.
+2. Dear Subscriber! Your payment term will expire today. Please refill a personal account in order to avoid tripping of services.
