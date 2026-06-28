@@ -1,0 +1,28 @@
+Ministra 5.6.7 Bulgarian localization report
+Generated: 2026-06-28 13:43:03 Europe/Sofia
+
+Files included:
+- stb.po
+- stb.mo
+
+Messages total: 1049
+Corrected entries: 167
+Untranslated messages after processing: 0
+Fuzzy messages after processing: 0
+Russian-only letters left (Ё/Ы/Э): 0
+Placeholder validation issues: 0
+
+Validation:
+- PO parsed successfully.
+- MO compiled successfully.
+- msgid values preserved.
+- printf placeholders (%s, %d, numbered placeholders) checked where present in source strings.
+- brace placeholders such as {0} checked where present in source strings.
+- HTML fragments were preserved in translated strings where present.
+
+Main corrections:
+- filled empty msgstr entries;
+- removed fuzzy status after correction;
+- replaced Russian administrative/UI phrases with Bulgarian;
+- corrected wrong-context translations such as STB damaged/blocked, TimeShift, TV archive, PVR errors, cache/storage actions;
+- unified terminology: STB, ТВ архив, TimeShift, хранилище, кеш, канал, абонамент, запис.
